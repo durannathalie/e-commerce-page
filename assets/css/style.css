@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
+}
+
+#btnTop {
+  width: 90px;
+  border-radius: 5px;
+}
